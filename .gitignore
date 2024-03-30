@@ -1,3 +1,4 @@
+.DS_Store
 tcp/socket/*
 !tcp/socket/.gitkeep
 udp/socket/*
